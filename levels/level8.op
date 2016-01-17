@@ -1,0 +1,12 @@
+20 = Number of Items
+22 = Number of Wires
+O O O O O O O O O -1 X 2 9 O O O 
+O O O O O O O O O W X 4 O 10 O O 
+-0 W O 6 O 6 O 6 O -3 X 7 7 7 O O 
+W O O W O W O W O O X 5 5 5 O O 
+O O O W O W O W O O X X X X X X 
+O O O O O O O O O O X X X X X X 
+W W W W W W O O O O X X X X X X 
+O O O O O O O O O O X X X X X X 
+-10 -8 -8 -8 O O O O O O X X X X X X 
+O O O O O O O O O O X X X X X X 

@@ -1,0 +1,12 @@
+8 = Number of Items
+11 = Number of Wires
+O O O O O O O O O O X O O O O O 
+O O O O O O O O O O X O 2 O 3 O 
+O O -0 W W O O O O O X 4 O 9 O O 
+O O O O O O O O O O X O O O O O 
+O O O O O O O O O O X X X X X X 
+O O O O -10 W W O O O X X X X X X 
+O O O O O O O O O O X X X X X X 
+O O O O O O O O -5 O X X X X X X 
+O O O O O O O O W O X X X X X X 
+-1 W O O O O O O W O X X X X X X 

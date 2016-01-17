@@ -1,0 +1,12 @@
+16 = Number of Items
+19 = Number of Wires
+O O O O O O O O O O X O O O O O 
+O O O -2 O -2 O -2 O O X O 5 O O O 
+O O O -5 O -5 O -5 O O X O O 4 O O 
+O O O O O O O O O O X O O O O O 
+O O -0 W W W O W W -1 X X X X X X 
+O O O O O O O O O O X X X X X X 
+O O O -5 O -5 O -5 O O X X X X X X 
+O O O -2 O -2 O -2 O O X X X X X X 
+O O O O O O O O O O X X X X X X 
+O O O O O O O O O O X X X X X X 
