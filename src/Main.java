@@ -30,7 +30,7 @@ import javax.swing.JPanel;
 import javax.swing.KeyStroke;
 
 /**
- * Main - the main frame of our program that keeps tracks of different game
+ * Main - the main frame of our program that keeps track of different game
  * states, handles the menu and menu bar, and switches panels in and out
  * 
  * @author Derrick Thai and Riddle Li
