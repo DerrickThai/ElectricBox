@@ -267,20 +267,15 @@ public class Main extends JFrame implements ActionListener
 		JOptionPane
 				.showMessageDialog(
 						this,
-						"Welcome to ELECTRIC BOX BETA. The objective of this game is to conduct electricity from"
-								+ "\na source box to the target box (with lightning on it). Wires placed on the board will  "
-								+ "\nconduct the electricity, but empty spaces will not. The inventory on the right contains items that"
-								+ "\ncan convert electricity to other forms of energy; and convert energy back to electricity."
-								+ "\nUse these items by dragging them onto a square with wires on it. "
-								+ "\n\nTurn on and off the source box by clicking on it or using the space bar."
-								+ "\nLight bulbs project light vertically and horizontally. Use solar panels to absorb the light."
-								+ "\nRadios transmit waves in a 5x5 square centred around the radio. Use radar dish to absorb the signal"
-								+ "\nBricks and any items (except solar panel) can block light."
-								+ "\nThe teleport sender(down arrows) and receiver (up arrows) can work together"
-								+ "\nto teleport an object above the sender to the space above the receiver."
-								+ "\nto Kettles pour water to the squares below it and can be collect by a turbine"
-								+ "\n\nYou pass the level when the target box turns on."
-								+ "\nGL HF NOOBS!", "Instructions",
+						"Welcome to ELECTRIC BOX BETA.\n\n"
+								+ "The objective of this game is to conduct electricity from a source box to the target box."
+								+ "\nWires placed on the board will conduct the electricity, but empty spaces will not."
+								+ "\nThe inventory on the right contain items that convert electricity to other forms"
+								+ "\nof energy and convert energy back to electricity."
+								+ "\n\nUse these items by dragging them onto a square with wires on it. "
+								+ "\nTurn on and off the source box by clicking on it or using the space bar."
+								+ "\nYou pass the level when the target box turns on.",
+						"Instructions",
 						JOptionPane.INFORMATION_MESSAGE);
 	}
 
@@ -330,8 +325,9 @@ public class Main extends JFrame implements ActionListener
 
 		// Selected "About"
 		else if (event.getSource() == aboutMenuItem)
-			JOptionPane.showMessageDialog(this, "By Derrick Thai and Riddle Li"
-					+ "\n\u00a9 2014", "About Electric Box Beta",
+			JOptionPane.showMessageDialog(this,
+					"Programming and Menus: Derrick Thai\nGraphics and Tooltips: Riddle Li"
+							+ "\n\u00a9 2014", "About Electric Box Beta",
 					JOptionPane.INFORMATION_MESSAGE);
 	}
 
